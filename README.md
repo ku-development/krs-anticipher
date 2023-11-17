@@ -38,5 +38,3 @@ Feel free to contribute, report issues, or suggest enhancements.
 ## License
 
 This script is released under the [MIT License](LICENSE.md).
-
--
