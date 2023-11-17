@@ -1,6 +1,4 @@
-Certainly! Below is a simple README template for your GitHub repository for the "krs-anticipher" script:
 
----
 
 # krs-anticipher
 
